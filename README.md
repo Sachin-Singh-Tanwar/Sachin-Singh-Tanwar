@@ -27,9 +27,8 @@
 
 ## 📊 GitHub Activity
 
-<!-- Use github-readme-stats with dark theme, minimal. Two cards only: stats + streak -->
+<!-- Use github-readme-stats with dark theme, minimal. Single stats card. -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=Sachin-Singh-Tanwar&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Singh-Tanwar&theme=radical&hide_border=true)
 
 ---
 
