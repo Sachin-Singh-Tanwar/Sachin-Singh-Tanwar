@@ -66,11 +66,14 @@ Currently engineering an **autonomous revenue engine** on OpenCode + Apify, and 
 
 ---
 
-### 🏆 Achievements
+### 🏆 Highlights
 
-<!-- Dynamic trophy widget — curated, not spammy -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sachin-Singh-Tanwar&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-0ea5e9?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Automation](https://img.shields.io/badge/AI%20Automation-Builder-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
+![Apify](https://img.shields.io/badge/Apify-Actor%20Developer-00A67E?style=for-the-badge&logo=apify&logoColor=white)
+
 </div>
 
 ---
